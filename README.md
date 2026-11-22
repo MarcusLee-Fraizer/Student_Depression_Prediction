@@ -118,11 +118,10 @@ Metrics on the held-out test set:
 
 | Metric | Dummy Baseline | Logistic Regression |
 |---|---|---|
-| Accuracy  | [PLACEHOLDER] | [PLACEHOLDER] |
-| Precision | [PLACEHOLDER] | [PLACEHOLDER] |
-| Recall    | [PLACEHOLDER] | [PLACEHOLDER] |
-| F1-score  | [PLACEHOLDER] | [PLACEHOLDER] |
-| ROC-AUC   | [PLACEHOLDER] | [PLACEHOLDER] |
+| Accuracy  | 0.5835 | 0.8502 |
+| Precision | [PLACEHOLDER] | 0.8638 |
+| Recall    | [PLACEHOLDER] | 0.8877 |
+| F1-score  | [PLACEHOLDER] | 0.8756 |
 
 <!-- IMAGE: Confusion matrix -->
 <!-- IMAGE: ROC curve -->
